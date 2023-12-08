@@ -1,0 +1,150 @@
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\appsettings.Development.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.exe
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\appsettings.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.deps.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.runtimeconfig.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.pdb
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\FastDFS.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.AssemblyReference.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfoInputs.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfo.cs
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CoreCompileInputs.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.build.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.development.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\scopedcss\bundle\Steven.FastDFS.Demo.styles.css
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CopyComplete
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\refint\Steven.FastDFS.Demo.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.pdb
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.genruntimeconfig.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\obj\Debug\net6.0\ref\Steven.FastDFS.Demo.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.AssemblyReference.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfoInputs.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfo.cs
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CoreCompileInputs.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\refint\Steven.FastDFS.Demo.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.pdb
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\appsettings.Development.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.exe
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\appsettings.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.deps.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.runtimeconfig.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.pdb
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\FastDFS.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.build.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.development.json
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\scopedcss\bundle\Steven.FastDFS.Demo.styles.css
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CopyComplete
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.genruntimeconfig.cache
+D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\ref\Steven.FastDFS.Demo.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.exe
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\appsettings.json
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.deps.json
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.runtimeconfig.json
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.pdb
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\FastDFS.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.AssemblyReference.cache
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfoInputs.cache
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfo.cs
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CoreCompileInputs.cache
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\scopedcss\bundle\Steven.FastDFS.Demo.styles.css
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CopyComplete
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\refint\Steven.FastDFS.Demo.dll
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.pdb
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.genruntimeconfig.cache
+D:\Users\wangm\Desktop\code\FastDFS\Steven.FastDFS.Demo\obj\Debug\net6.0\ref\Steven.FastDFS.Demo.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.exe
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.deps.json
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.runtimeconfig.json
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.pdb
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\FastDFS.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.AssemblyReference.cache
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfoInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfo.cs
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets\msbuild.Steven.FastDFS.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Steven.FastDFS.Demo.props
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Steven.FastDFS.Demo.props
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Steven.FastDFS.Demo.props
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\scopedcss\bundle\Steven.FastDFS.Demo.styles.css
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CopyComplete
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\refint\Steven.FastDFS.Demo.dll
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.pdb
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.genruntimeconfig.cache
+C:\Users\30765\Desktop\新建文件夹 (3)\Steven.FastDFS.Demo\obj\Debug\net6.0\ref\Steven.FastDFS.Demo.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.exe
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.deps.json
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.runtimeconfig.json
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Steven.FastDFS.Demo.pdb
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\FastDFS.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.AssemblyReference.cache
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfoInputs.cache
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.AssemblyInfo.cs
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets\msbuild.Steven.FastDFS.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Steven.FastDFS.Demo.props
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Steven.FastDFS.Demo.props
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Steven.FastDFS.Demo.props
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\scopedcss\bundle\Steven.FastDFS.Demo.styles.css
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.csproj.CopyComplete
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\refint\Steven.FastDFS.Demo.dll
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.pdb
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\Steven.FastDFS.Demo.genruntimeconfig.cache
+C:\Users\30765\Desktop\Steven.FastDFS.Demo\Steven.FastDFS.Demo\obj\Debug\net6.0\ref\Steven.FastDFS.Demo.dll

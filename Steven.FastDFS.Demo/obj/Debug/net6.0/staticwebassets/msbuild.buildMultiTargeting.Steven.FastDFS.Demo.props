@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Steven.FastDFS.Demo.props" />
+</Project>

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zhaoxi.FastDFS.Demo
+build_property.ProjectDir = D:\朝夕\架构班\DistributeTransaction分布式\20210604Architect02Course016分布式文件系统\源码\Zhaoxi.VIP.FastDFS.Demo\Zhaoxi.VIP.FastDFS.Demo\

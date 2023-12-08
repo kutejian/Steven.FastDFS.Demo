@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LCg1zQn1zynaei9KnJwVz9VkHdTWWveySFQoo6gu7kY+SKx0tR/aOtIVy6Xt82oft4pLsdk4pCr8akUNPM3UqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\30765\\Desktop\\Steven.FastDFS.Demo\\Steven.FastDFS.Demo\\Steven.FastDFS.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\30765\\.nuget\\packages\\fastdfsnetcore\\1.2.7\\fastdfsnetcore.1.2.7.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
